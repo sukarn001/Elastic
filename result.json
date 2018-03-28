@@ -1,0 +1,26 @@
+{
+    "took": 15,
+    "timed_out": false,
+    "_shards": {
+        "total": 10,
+        "successful": 10,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": 1,
+        "max_score": 0.2876821,
+        "hits": [
+            {
+                "_index": "actor",
+                "_type": "actors",
+                "_id": "y6aXbWIBdPmyuANa8_K8",
+                "_score": 0.2876821,
+                "_source": {
+                    "name": "ABC",
+                    "year": "2016"
+                }
+            }
+        ]
+    }
+}

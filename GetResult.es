@@ -2,7 +2,7 @@ GET _search
 {
     "query": {
         "match":{
-            "name": "adams"
+            "name": "ABC"
         }
     }
 }
@@ -23,3 +23,24 @@ GET _search
 
 
 GET _cat/indices?v
+
+
+GET actor/_mapping
+
+
+
+PUT actor/
+{
+    "mappings": {
+        "actors":{
+           "properties": {
+               "name":{
+                   "type": "text"
+               },
+               "year": {
+                   "type": "integer"
+               }
+           }
+        }
+    }
+}
