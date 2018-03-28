@@ -1,0 +1,13 @@
+{
+    "actor": {
+        "mappings": {
+            "actor": {
+                "properties": {
+                    "year": {
+                        "type": "integer"
+                    }
+                }
+            }
+        }
+    }
+}
