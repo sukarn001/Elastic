@@ -9,7 +9,7 @@ GET _search
 
 
 
-
+GET _cat/indices?v
 
 GET _search
 {
