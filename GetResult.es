@@ -1,7 +1,7 @@
 GET _search
 {
     "query": {
-        "match":{
+        "match": {
             "year": "2015"
         }
     }
@@ -9,7 +9,11 @@ GET _search
 
 
 
+
+
+
 GET _cat/indices?v
+
 
 GET _search
 {
@@ -40,3 +44,9 @@ PUT actor/
 
 
 GET actor/_mapping
+
+
+## Geting documents by ID
+
+GET /product/default/1
+
