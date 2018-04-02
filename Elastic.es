@@ -68,3 +68,20 @@ PUT actor/
         }
     }
 }
+
+##Deleting Document
+DELETE /product/default/1
+
+POST /product/default
+{
+    "name": "Processing logs from Logstash",
+    "catagory": "Course"
+}
+
+POST /product/default
+{
+    "name": "Scaling Elasticsearch",
+    "catagory": "Book"
+}
+
+DELETE /product

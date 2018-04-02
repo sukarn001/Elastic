@@ -14,6 +14,12 @@ GET _search
 
 GET _cat/indices?v
 
+GET _cat/health?v
+
+GET _cat/nodes?v
+
+GET _cat/shards?v
+
 
 GET _search
 {
@@ -36,5 +42,5 @@ GET actor/_mapping
 
 ## Geting documents by ID
 
-GET /product/default/1
+GET /product/default/_search?pretty
 
