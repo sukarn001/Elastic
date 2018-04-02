@@ -32,8 +32,11 @@ GET _search
 PUT actor/
 {
     "mappings": {
-        "actor": {
+        "actors": {
             "properties": {
+                "name":{
+                    "type": "text"
+                },
                 "year": {
                     "type": "integer"
                 }
