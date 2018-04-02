@@ -29,21 +29,6 @@ GET _search
 
 
 
-PUT actor/
-{
-    "mappings": {
-        "actors": {
-            "properties": {
-                "name":{
-                    "type": "text"
-                },
-                "year": {
-                    "type": "integer"
-                }
-            }
-        }
-    }
-}
 
 
 GET actor/_mapping

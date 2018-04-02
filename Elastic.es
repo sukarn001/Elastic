@@ -52,3 +52,19 @@ POST /product/default/1/_update
 {
     "script": "ctx._source.remove(\"price\")"
 }
+
+PUT actor/
+{
+    "mappings": {
+        "actors": {
+            "properties": {
+                "name":{
+                    "type": "text"
+                },
+                "year": {
+                    "type": "integer"
+                }
+            }
+        }
+    }
+}
