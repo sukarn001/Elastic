@@ -78,10 +78,56 @@ POST /product/default
     "catagory": "Course"
 }
 
-POST /product/default
+POST /product/default/2000
 {
     "name": "Scaling Elasticsearch",
     "catagory": "Book"
 }
 
 DELETE /product
+
+PUT /product/default/_mappings
+{
+    "properties":{
+        "discount":{
+            "type": "integer"
+        }
+    }
+}
+
+PUT /product/default/_mappings
+{
+    "properties":{
+        "description":{
+            "type": "text"
+        },
+        "name": {
+            "type": "text",
+            "fields": {
+                "keyword":{
+                    "type": "keyword"
+                }
+            }
+        },
+        "tags": {
+            "type":"text",
+            "fields": {
+                "keyword": {
+                    "type": "keyword"
+                }
+            }
+        }
+    }
+}
+
+PUT product/default/_mappings/
+{
+    "properties": {
+        "created": {
+            "type": "date",
+            "format": "yyyy/MM/dd HH:mm:ss||yyyy/MM/dd"
+        }
+    }
+}
+
+
