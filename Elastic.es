@@ -4,7 +4,7 @@ Post actor/actors
     "year": "2016"
 }
 
-testing git
+GET /product/default/_mapping
 
 
 #Create Index
@@ -70,7 +70,7 @@ PUT actor/
 }
 
 ##Deleting Document
-DELETE /product/default/1
+DELETE /product
 
 POST /product/default
 {
@@ -84,7 +84,7 @@ POST /product/default/2000
     "catagory": "Book"
 }
 
-DELETE /product
+DELETE /blog
 
 PUT /product/default/_mappings
 {
@@ -131,3 +131,26 @@ PUT product/default/_mappings/
 }
 
 
+PUT /product
+{
+    "mappings": {
+        "default": {
+            "dynamic": false,
+            "properties": {
+                "in_stock": {
+                    "type": "integer"
+                },
+                "is_acive": {
+                    "type": "integer"
+                },
+                "price": {
+                    "type": "integer"
+                },
+                "sold": {
+                    "type": "long"
+                }
+            }
+        }
+    }
+}
+    

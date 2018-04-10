@@ -2,7 +2,7 @@ GET _search
 {
     "query": {
         "match": {
-            "name": "lettuce"
+            "year": "2015"
         }
     }
 }
@@ -18,7 +18,7 @@ GET _cat/health?v
 
 GET _cat/nodes?v
 
-GET _cat/ID
+GET _cat/shards?v
 
 
 GET _search
@@ -26,7 +26,7 @@ GET _search
     "query": {
         "match": {
             "name": {
-                "query": "adams"
+                "query": "lettuce"
             }
         }
     }
@@ -37,13 +37,18 @@ GET _search
 
 
 
-GET actor/
+GET product/_mapping
 
 
 ## Geting documents by ID
 
-GET /product/default/_search?pretty
+GET _search
+{
+    "query": {
+        "term": {
+            "discount": 215
+        }
+    }
+}
 
-GET /product/default/_mapping
 
-GET product/default/_mapping
