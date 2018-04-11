@@ -44,7 +44,12 @@ PUT /product/default/1
 
 POST product/default/1/_update
 {
-    "doc": {"Price":95, "TAGS":["Elasticsearch"]}
+    "doc": {
+        "Price": 95,
+        "TAGS": [
+            "Elasticsearch"
+        ]
+    }
 }
 
 ### updating through script.
@@ -84,7 +89,7 @@ POST /product/default/2000
     "catagory": "Book"
 }
 
-DELETE /blogs
+DELETE /product
 
 PUT /product/default/_mappings
 {

@@ -1,15 +1,18 @@
 {
-    "took": 9,
-    "timed_out": false,
-    "_shards": {
-        "total": 5,
-        "successful": 5,
-        "skipped": 0,
-        "failed": 0
-    },
-    "hits": {
-        "total": 0,
-        "max_score": null,
-        "hits": []
+    "_index": "product",
+    "_type": "default",
+    "_id": "1",
+    "_version": 3,
+    "found": true,
+    "_source": {
+        "name": "processing events for Elastic",
+        "instructor": {
+            "Firstname": "Sukarn",
+            "Lastname": "Nigam"
+        },
+        "Price": 95,
+        "TAGS": [
+            "Elasticsearch"
+        ]
     }
 }

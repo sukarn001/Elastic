@@ -52,4 +52,4 @@ GET _search
 }
 
 
-GET product/default/_search
+GET product/default/1
