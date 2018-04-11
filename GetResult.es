@@ -26,7 +26,7 @@ GET product/_search
     "query": {
         "match": {
             "name": {
-                "query": "lettuce"
+                "query": "Lettuce"
             }
         }
     }
@@ -46,7 +46,7 @@ GET _search
 {
     "query": {
         "term": {
-            "discount": 215
+            "discount": "215"
         }
     }
 }

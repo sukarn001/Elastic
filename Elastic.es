@@ -159,3 +159,7 @@ PUT /product
     }
 }
 
+POST product/default/_update
+{
+    "discount": "215"
+}
