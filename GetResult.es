@@ -21,7 +21,7 @@ GET _cat/nodes?v
 GET _cat/shards?v
 
 
-GET _search
+GET product/_search
 {
     "query": {
         "match": {
@@ -52,3 +52,4 @@ GET _search
 }
 
 
+GET product/default/_search

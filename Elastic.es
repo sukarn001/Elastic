@@ -84,7 +84,7 @@ POST /product/default/2000
     "catagory": "Book"
 }
 
-DELETE /blog
+DELETE /blogs
 
 PUT /product/default/_mappings
 {
@@ -153,4 +153,4 @@ PUT /product
         }
     }
 }
-    
+
