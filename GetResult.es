@@ -52,4 +52,4 @@ GET _search
 }
 
 
-GET product/default/2000
+GET product/_search?pretty

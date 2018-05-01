@@ -75,7 +75,7 @@ PUT actor/
 }
 
 ##Deleting Document
-DELETE /product
+DELETE /existing_analyzer_config
 
 POST /product/default
 {
