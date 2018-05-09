@@ -1,15 +1,21 @@
 {
-    "took": 10,
-    "timed_out": false,
-    "_shards": {
-        "total": 10,
-        "successful": 10,
-        "skipped": 0,
-        "failed": 0
+    "error": {
+        "root_cause": [
+            {
+                "type": "index_not_found_exception",
+                "reason": "no such index",
+                "resource.type": "index_or_alias",
+                "resource.id": "system_logs",
+                "index_uuid": "_na_",
+                "index": "system_logs"
+            }
+        ],
+        "type": "index_not_found_exception",
+        "reason": "no such index",
+        "resource.type": "index_or_alias",
+        "resource.id": "system_logs",
+        "index_uuid": "_na_",
+        "index": "system_logs"
     },
-    "hits": {
-        "total": 0,
-        "max_score": null,
-        "hits": []
-    }
+    "status": 404
 }

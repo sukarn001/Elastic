@@ -52,4 +52,4 @@ GET _search
 }
 
 
-GET product/_search?pretty
+GET system_logs/_search?pretty
