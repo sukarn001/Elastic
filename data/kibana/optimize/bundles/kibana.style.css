@@ -1,0 +1,2596 @@
+/*! Copyright Elasticsearch B.V. and/or license to Elasticsearch B.V. under one or more contributor license agreements
+ * Licensed under the Elastic License; you may not use this file except in compliance with the Elastic License. */
+.fieldFormatEditor__samples audio {
+  max-width: 100%;
+}
+#indexManagementReactRoot {
+  background-color: #F5F5F5;
+}
+.indexTable__link {
+  text-align: left;
+}
+.indexTable__header--name {
+  width: 25%;
+}
+.indexTableHorizontalScrollContainer {
+  overflow-x: auto;
+  max-width: 100%;
+  height: 100vh;
+}
+.indexTableHorizontalScroll {
+  min-width: 800px;
+  width: 100%;
+}
+.indexDetail__codeBlock {
+  background: transparent;
+}
+.licenseFeature {
+  -webkit-flex-grow: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+  background: #F5F5F5;
+  min-height: 100vh;
+}
+.licenseManagement__pageBody {
+  padding-top: 24px;
+  min-height: auto;
+}
+.licenseManagement__pageContent {
+  -webkit-flex-grow: 0;
+      -ms-flex-positive: 0;
+          flex-grow: 0;
+}
+.licenseManagement__contain {
+  margin: auto;
+}
+@media screen and (max-width: 767px) {
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 768px) {
+}
+@media (max-width: 767px) {
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 768px) {
+}
+@media (max-width: 767px) {
+}
+@media (max-width: 767px) {
+}
+pipeline-edit .pipeline-editor {
+  border: 1px solid #ecf0f1;
+}
+.logstash-tooltip {
+  display: none;
+}
+@media screen and (max-width: 767px) {
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 768px) {
+}
+@media (max-width: 767px) {
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 768px) {
+}
+@media (max-width: 767px) {
+}
+@media (max-width: 767px) {
+}
+watch-history-item-detail .json-editor {
+  height: 400px;
+  border: 2px solid #ecf0f1;
+}
+@media screen and (max-width: 767px) {
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 768px) {
+}
+@media (max-width: 767px) {
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 768px) {
+}
+@media (max-width: 767px) {
+}
+@media (max-width: 767px) {
+}
+watch-edit-detail .json-editor {
+  height: 400px;
+}
+@media screen and (max-width: 767px) {
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 768px) {
+}
+@media (max-width: 767px) {
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 768px) {
+}
+@media (max-width: 767px) {
+}
+@media (max-width: 767px) {
+}
+.json-editor {
+  border: 2px solid #E4E4E4;
+}
+@media screen and (max-width: 767px) {
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 768px) {
+}
+@media (max-width: 767px) {
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 768px) {
+}
+@media (max-width: 767px) {
+}
+@media (max-width: 767px) {
+}
+watch-edit-execute-detail .json-editor {
+  height: 300px;
+}
+watch-edit-execute-detail .copyFromPrevious {
+  float: right;
+  font-weight: normal;
+}
+watch-edit-execute-detail .kuiFormSection {
+  padding-left: 15px;
+}
+watch-edit-execute-detail label.collapserLabel {
+  font-weight: normal;
+  color: #5A5A5A;
+}
+threshold-watch-edit {
+  -webkit-flex: 1 0 auto;
+      -ms-flex: 1 0 auto;
+          flex: 1 0 auto;
+  background-color: #F5F5F5;
+}
+threshold-watch-edit .thresholdWatchEditContent {
+  padding: 20px;
+}
+threshold-watch-edit .thresholdWatchEditButtons {
+  -webkit-flex-direction: row-reverse;
+      -ms-flex-direction: row-reverse;
+          flex-direction: row-reverse;
+}
+threshold-watch-edit .thresholdWatchEditSectionPanel {
+  background-color: white;
+  padding: 20px;
+}
+threshold-watch-edit .kuiVerticalRhythm + .kuiVerticalRhythm {
+  margin-top: 20px;
+}
+threshold-watch-edit .kuiWatchVisualization {
+  width: 800px;
+  height: 250px;
+  border: 1px solid #e0e0e0;
+  padding: 10px;
+  border-radius: 4px;
+  background-color: #F5F5F5;
+}
+threshold-watch-edit .kuiWatchVisualizationMulti {
+  margin: 20px;
+}
+@media screen and (max-width: 767px) {
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 768px) {
+}
+@media (max-width: 767px) {
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 768px) {
+}
+@media (max-width: 767px) {
+}
+@media (max-width: 767px) {
+}
+.watchEditTitlePanelContent {
+  border-top: solid 1px #b4bcc2;
+  padding-top: 2rem;
+  margin-top: 1rem;
+}
+.watchEditTitleIndexSelectContainer.ng-invalid .ui-select-container {
+  border-color: #D86051;
+}
+.watchEditTitlePanelIntervalValidation {
+  width: 185px;
+}
+.indexSelectNoChoice {
+  color: #b4bcc2;
+  font-size: 12px;
+  padding: 3px 20px;
+  line-height: 1.42;
+}
+/**
+ * 1. To ensure a smooth UX, prevent the dropdown from hiding while we async search for more results
+ * 2. ui-select likes to clear the result set out of the UI when you enter
+ *    a new search query which can cause a jarring UX. This helps mitigate
+ *    that by at least providing something in the box so it's not empty
+ */
+.indexSelect--activeSearch .ui-select-dropdown.ng-hide {
+  display: block !important;
+  /* 1 */
+}
+.indexSelect--activeSearch .ui-select-dropdown.ng-hide:after {
+  content: 'Choose...';
+  /* 2 */
+  color: #b4bcc2;
+  font-size: 12px;
+  padding: 3px 20px;
+  line-height: 1.42;
+  /* 2 */
+}
+/**
+ * 1. By default, hide this until the user searches or there are results
+ */
+.indexSelect--noSearch .ui-select-no-choice {
+  display: none !important;
+  /* 1 */
+}
+/**
+ * 1. Provide a loading indicator to the user
+ */
+.indexSelect--fetchingWithNoIndices .ui-select-choices:before {
+  content: 'Loading...';
+  /* 1 */
+  margin-left: 15px;
+  /* 1 */
+  font-style: italic;
+  /* 1 */
+  color: #5A5A5A;
+  /* 1 */
+}
+/**
+ * 1. Ensure that an invalid ui-select shows a red border
+ */
+.ui-select-multiple.ui-select-bootstrap.ng-invalid {
+  border-color: #D86051 !important;
+  /* 1 */
+}
+.durationSelect {
+  white-space: nowrap;
+}
+.durationSelectSize {
+  display: inline-block;
+}
+.durationSelectUnit {
+  display: inline-block;
+}
+.watcherExpressionPopover {
+  z-index: 1;
+}
+.thresholdWatchExpression .kuiExpressionButton {
+  margin-right: 10px;
+}
+.thresholdWatchExpression .kuiExpressionButton-isError {
+  border-color: #D86051;
+}
+.thresholdWatchExpression .kuiInputNote {
+  margin-top: -10px;
+}
+.flotChart {
+  height: 100%;
+}
+.chartTooltip {
+  line-height: 1.1;
+  font-size: 14px;
+  font-weight: normal;
+  background: rgba(0, 9, 12, 0.9);
+  color: #FFF;
+  border-radius: 4px;
+  position: fixed;
+  z-index: 120;
+  word-wrap: break-word;
+  max-width: 40%;
+  overflow: hidden;
+  pointer-events: none;
+  margin: 8px;
+  padding: 4px;
+}
+.chartTooltip__label {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-weight: 600;
+}
+.chartTooltip__value {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+}
+.thresholdPreviewChart {
+  height: 100%;
+  position: relative;
+}
+.thresholdPreviewChart .flot-tick-label {
+  color: #848e96;
+}
+.thresholdPreviewChartNoData {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+.watchAction {
+  border-top: 1px dashed #999;
+}
+.watchAction__error {
+  background-color: #fbe9f1;
+}
+.watchActionErrorMessage {
+  color: #db3a81;
+}
+.watchActionSummaryButton {
+  padding: 15px;
+  width: 100%;
+  background: transparent;
+  border: transparent;
+  text-align: left;
+}
+.watchActionSummaryButton:hover {
+  background: #f2f8fb;
+}
+.watchActionSummaryToggleIcon {
+  margin-right: 10px;
+  width: 14px;
+}
+.watchActionSummaryTypeIcon {
+  margin-right: 5px;
+}
+.watchActionSummaryType {
+  font-size: 12pt;
+}
+.watchActionHeader {
+  display: block;
+}
+.watchActionDescription {
+  display: block;
+  color: #787879;
+  margin-left: 25px;
+}
+.watchActionDetails {
+  background-color: inherit;
+  padding: 0 10px 10px 10px;
+  padding-left: 44px;
+}
+.watchActionSimulateButton {
+  float: right;
+}
+.watchActionsHeader {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 10px 0;
+  margin-bottom: 20px;
+}
+.watchActionsHeader .watchActionsHeaderTitle {
+  -webkit-flex: 1 1 auto;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  font-size: 18px;
+  width: 100%;
+}
+.watchActionsHeader .watchActionsActionType {
+  -webkit-flex: 1 1 auto;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  width: 450px;
+}
+.watchActionsHeader .watchActionsActionType .ui-select-bootstrap .ui-select-choices-row > span {
+  padding: 10px 20px;
+}
+@media screen and (max-width: 767px) {
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 768px) {
+}
+@media (max-width: 767px) {
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 768px) {
+}
+@media (max-width: 767px) {
+}
+@media (max-width: 767px) {
+}
+.actionTypeChoice {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+.actionTypeChoice--disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+.actionTypeIcon {
+  -webkit-flex: 1 0 auto;
+      -ms-flex: 1 0 auto;
+          flex: 1 0 auto;
+  margin-right: 10px;
+  font-size: 14pt;
+}
+.actionTypeDescription {
+  -webkit-flex: 1 1 auto;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  width: 100%;
+}
+action-type-select .ui-select-bootstrap > .ui-select-choices {
+  min-width: 350px;
+}
+action-type-select .ui-select-bootstrap .ui-select-choices-row > span {
+  padding: 10px 20px;
+}
+action-type-select .ui-select-match .btn {
+  border-color: #0079a5;
+  color: #0079a5;
+}
+action-type-select .ui-select-placeholder {
+  color: #0079a5 !important;
+  padding-right: 10px;
+}
+.kuiPanelPager {
+  height: 0px;
+}
+.panelPagerPrevious,
+.panelPagerNext {
+  position: relative;
+  top: -155px;
+  border-radius: 20px;
+  border: 1px solid #e0e0e0;
+  background-color: white;
+  height: 40px;
+  width: 40px;
+}
+.panelPagerPrevious {
+  left: -20px;
+}
+.panelPagerPrevious__icon {
+  margin-left: 2px;
+}
+.panelPagerNext {
+  float: right;
+  right: -20px;
+}
+.panelPagerNext__icon {
+  margin-left: 4px;
+}
+.watcherNumberInput {
+  width: 85px;
+}
+nav.navbar .logo.hidden-sm {
+  display: block !important;
+}
+sense-help-example .ace_method,
+sense-history-viewer .ace_method,
+#editor_output_container .ace_method {
+  color: #E64A3A;
+}
+sense-help-example .ace_url,
+sense-history-viewer .ace_url,
+#editor_output_container .ace_url {
+  color: #40B0D3;
+}
+sense-help-example .ace_variable,
+sense-history-viewer .ace_variable,
+#editor_output_container .ace_variable {
+  color: #006E8A;
+}
+sense-help-example .ace_string,
+sense-history-viewer .ace_string,
+#editor_output_container .ace_string {
+  color: #166555;
+}
+sense-help-example .ace_warning,
+sense-history-viewer .ace_warning,
+#editor_output_container .ace_warning {
+  color: #E64A3A;
+}
+sense-help-example .ace_scroller,
+sense-history-viewer .ace_scroller,
+#editor_output_container .ace_scroller {
+  border-left: 1px solid #D9D9D9;
+}
+sense-help-example .ace_multi_string,
+sense-history-viewer .ace_multi_string,
+#editor_output_container .ace_multi_string {
+  color: #166555;
+  font-style: italic;
+}
+sense-help-example .ace_start_triple_quote,
+sense-history-viewer .ace_start_triple_quote,
+#editor_output_container .ace_start_triple_quote,
+sense-help-example .ace_end_triple_quote,
+sense-history-viewer .ace_end_triple_quote,
+#editor_output_container .ace_end_triple_quote {
+  color: #40B0D3;
+}
+sense-help-example .ace_snippet-marker,
+sense-history-viewer .ace_snippet-marker,
+#editor_output_container .ace_snippet-marker {
+  background: rgba(194, 193, 208, 0.2);
+  border-top: dotted 1px rgba(194, 193, 208, 0.8);
+  border-bottom: dotted 1px rgba(194, 193, 208, 0.8);
+  margin-top: -1px;
+  /* compensate for background */
+}
+sense-help-example .ui-menu,
+sense-history-viewer .ui-menu,
+#editor_output_container .ui-menu {
+  background-color: white;
+  border: 1px solid #CCC;
+}
+sense-help-example .ui-state-focus,
+sense-history-viewer .ui-state-focus,
+#editor_output_container .ui-state-focus {
+  color: white;
+  background-color: #08C;
+}
+#editor_output_container {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1 1 auto;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  position: relative;
+  padding: 10px;
+  font-size: 16px;
+}
+#editor_output_container .ace-tm .ace_gutter {
+  background: #ffffff;
+  color: #A0A0A0;
+}
+#editor_output_container .ace-tm .ace_gutter-active-line {
+  background-color: #e6e6e8;
+}
+#editor_output_container .ace-tm .ace_marker-layer .ace_active-line {
+  background-color: #dbdcdd;
+}
+#editor_output_container .ace_snippet-marker {
+  background-color: #e8e8e8;
+  border: 0;
+}
+#editor_container {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 0 0 auto;
+      -ms-flex: 0 0 auto;
+          flex: 0 0 auto;
+  width: 468px;
+  position: relative;
+}
+#editor_container #autocomplete {
+  position: absolute;
+  left: -1000px;
+}
+#editor_container #editor_actions {
+  position: absolute;
+}
+#editor_container #editor {
+  -webkit-flex: 1 1 1px;
+      -ms-flex: 1 1 1px;
+          flex: 1 1 1px;
+}
+#editor_container .ace_search {
+  z-index: 1006;
+}
+#editor_resizer {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 0 0 13px;
+      -ms-flex: 0 0 13px;
+          flex: 0 0 13px;
+  cursor: ew-resize;
+  background-color: #F5F5F5;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: -10px 0;
+}
+#editor_resizer:hover {
+  background-color: #a5e7ff;
+}
+#editor_resizer.active {
+  background-color: #0079a5;
+}
+#output_container {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1 1 1px;
+      -ms-flex: 1 1 1px;
+          flex: 1 1 1px;
+}
+#output_container #output {
+  -webkit-flex: 1 1 1px;
+      -ms-flex: 1 1 1px;
+          flex: 1 1 1px;
+}
+#editor_actions {
+  position: absolute;
+  top: 0;
+  right: 0;
+  line-height: 1;
+  padding: 1px 3px 0 0;
+  /* by pass any other element in ace and resize bar, but not modal popups  */
+  z-index: 1005;
+}
+#editor_actions .editor_action {
+  padding: 2px 4px;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  border: none;
+  background: none;
+}
+#editor_actions .fa-wrench {
+  color: #333333;
+}
+#editor_actions .fa-play {
+  color: #70ba56;
+}
+#autocomplete {
+  visibility: hidden;
+  position: absolute;
+  /* by pass any other element in ace and resize bar, but not modal popups  */
+  z-index: 1003;
+  margin-top: 22px;
+  /*font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'source-code-pro', monospace;*/
+  /*font-size: 12px;*/
+  /*max-height: 100px;*/
+  /*overflow-y: auto;*/
+  /* prevent horizontal scrollbar */
+  /*overflow-x: hidden;*/
+}
+.ui-state-focus {
+  margin: auto !important;
+}
+sense-help-example {
+  display: block;
+  height: 11em;
+  margin: 1em 0;
+}
+.history-body {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 300px;
+}
+.history-body .history-reqs,
+.history-body .history-viewer {
+  -webkit-flex: 0 0 50%;
+      -ms-flex: 0 0 50%;
+          flex: 0 0 50%;
+}
+.history-body .history-reqs {
+  overflow: auto;
+  margin: 0 25px 0 0;
+}
+.history-body .history-req {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+.history-body .history-req.selected {
+  background-color: #DCDCDC;
+}
+.history-body .history-req .history-req-icon {
+  -webkit-flex: 1 0 auto;
+      -ms-flex: 1 0 auto;
+          flex: 1 0 auto;
+  text-align: right;
+}
+.history-body .history-req .history-req-icon .fa-chevron-right {
+  opacity: .25;
+}
+.history-footer {
+  text-align: right;
+  padding-top: 10px;
+}
+.ui-autocomplete {
+  z-index: 400 !important;
+}
+.ace_editor {
+  line-height: normal;
+}
+.ace_layer.ace_marker-layer {
+  overflow: visible;
+}
+.ace_snippet-marker {
+  position: absolute;
+  width: 100% !important;
+}
+.ui-resizable-e.active {
+  background-color: #c2c1d0;
+}
+@media screen and (max-width: 767px) {
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 768px) {
+}
+@media (max-width: 767px) {
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 768px) {
+}
+@media (max-width: 767px) {
+}
+@media (max-width: 767px) {
+}
+grokdebugger .ace_grokStart,
+grokdebugger .ace_grokEnd,
+grokdebugger .ace_grokSeparator,
+grokdebugger .ace_grokEscape {
+  color: #999999;
+}
+grokdebugger .ace_grokPatternName {
+  color: #017F75;
+}
+grokdebugger .ace_grokFieldName,
+grokdebugger .ace_grokRegex {
+  color: #0079A5;
+}
+grokdebugger .ace_grokFieldType {
+  color: #0079A5;
+  font-style: italic;
+}
+.profilerDevTool .wrapper {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+      -ms-flex-flow: row wrap;
+          flex-flow: row wrap;
+  width: 100%;
+  position: absolute;
+  height: 100%;
+}
+.profilerDevTool .main {
+  overflow-y: auto;
+  height: 100%;
+  padding-left: 5px;
+  padding-right: 5px;
+  -webkit-flex: 3 0 0;
+      -ms-flex: 3 0 0px;
+          flex: 3 0 0;
+  -webkit-order: 2;
+      -ms-flex-order: 2;
+          order: 2;
+}
+.profilerDevTool .details {
+  padding: 10px;
+  width: 250px;
+  -webkit-order: 3;
+      -ms-flex-order: 3;
+          order: 3;
+}
+.profilerDevTool .sense {
+  height: 100%;
+  min-width: 300px;
+  -webkit-flex: 1 0 0;
+      -ms-flex: 1 0 0px;
+          flex: 1 0 0;
+  -webkit-order: 1;
+      -ms-flex-order: 1;
+          order: 1;
+}
+.profilerDevTool .panel {
+  background-color: inherit;
+  margin: 0px;
+  padding: 0px;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  border-bottom: 1px solid #444;
+}
+.profilerDevTool .shard-body {
+  padding-top: 5px;
+  margin: 0px;
+  margin-left: 5px;
+}
+.profilerDevTool .panel-body-underline {
+  border-bottom: 1px solid #eee;
+  border-left: 1px solid #eee;
+  border-right: 1px solid #eee;
+  padding-top: 20px;
+  padding: 5px;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+.profilerDevTool .ace_editor {
+  height: 100%;
+  padding-bottom: 50px;
+  outline: solid 1px #D9D9D9;
+}
+.profilerDevTool .errorMarker {
+  position: absolute;
+  background: rgba(255, 175, 175, 0.5);
+  z-index: 20;
+}
+.profilerDevTool .shard-details {
+  color: black;
+  font-size: 14px;
+  float: left;
+  margin-bottom: 5px;
+}
+.profilerDevTool .shard-details-right {
+  color: #777;
+  font-size: 14px;
+  float: right;
+  text-align: right;
+  margin-bottom: 10px;
+}
+.profilerDevTool .shard {
+  margin-top: 10px;
+  min-width: 100%;
+  display: inline-block;
+  border: none;
+}
+.profilerDevTool .index {
+  margin-top: 15px;
+  min-width: 100%;
+  padding: 6px;
+  padding-right: 15px;
+  display: inline-block;
+}
+.profilerDevTool .tv-row:hover {
+  outline: solid 1px #aaa;
+}
+.profilerDevTool .tv-row-last-hover {
+  outline: solid 1px #aaa;
+}
+.profilerDevTool .tv-row,
+.profilerDevTool .tv-row-header {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+.profilerDevTool .tv-row-header > .cell {
+  font-weight: bold;
+  color: #777;
+}
+.profilerDevTool .cell {
+  display: table-cell;
+  vertical-align: middle;
+}
+.profilerDevTool .cell > .detail {
+  font-style: italic;
+  font-size: 0.8em;
+  padding-left: 15px;
+}
+.profilerDevTool .description {
+  background-color: white;
+}
+.profilerDevTool .time {
+  width: 10%;
+  text-align: center;
+}
+.profilerDevTool .totaltime {
+  width: 10%;
+  text-align: center;
+}
+.profilerDevTool .percentage {
+  width: 15%;
+  text-align: center;
+  background-color: white;
+}
+.profilerDevTool .glyphicon-menu-pad {
+  padding-left: 10px;
+}
+.profilerDevTool .graph {
+  height: 20px;
+  border: 1px solid #888;
+  background: linear-gradient(to top, #a8a8a8 0%, #fcfcfc 23%);
+  position: relative;
+  vertical-align: middle;
+  margin: 2px;
+}
+.profilerDevTool .graph p {
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  margin: 0;
+  line-height: 16px;
+  vertical-align: middle;
+  font-size: small;
+  -webkit-order: 5;
+      -ms-flex-order: 5;
+          order: 5;
+}
+.profilerDevTool .bar {
+  height: 20px;
+  /* Not 30px because the 1px top-border brings it up to 30px to match #graph */
+  background: #ffd8d8;
+  background: linear-gradient(to top, #ffd8d8 0%, #ffafaf 100%);
+  border-top: 1px solid #fceabb;
+  vertical-align: middle;
+  float: right;
+}
+.profilerDevTool .error {
+  /* These styles are arbitrary */
+  background-color: #fceabb;
+  padding: 1em;
+  font-weight: bold;
+  color: red;
+  border: 1px solid red;
+}
+.profilerDevTool .breakdown {
+  width: 100%;
+}
+.profilerDevTool .breakdown > tbody > tr > td {
+  padding-right: 5px;
+}
+.profilerDevTool__container {
+  overflow: auto;
+  height: 100%;
+  width: 100%;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1 0 auto;
+      -ms-flex: 1 0 auto;
+          flex: 1 0 auto;
+}
+home-app {
+  background-color: #F5F5F5;
+}
+.home {
+  min-height: 100vh;
+  max-width: 1200px;
+  margin: auto;
+}
+.homeDirectory {
+  background: #ffffff;
+  margin: 0;
+  border-left: 1px solid #D9D9D9;
+  border-right: 1px solid #D9D9D9;
+  border-bottom: 1px solid #D9D9D9;
+  padding: 16px;
+}
+.homeDirectoryTab {
+  background-color: #F5F5F5;
+}
+.sampleDataSetCard {
+  -webkit-flex-grow: 0;
+      -ms-flex-positive: 0;
+          flex-grow: 0;
+}
+.synopsis {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-grow: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+  cursor: pointer;
+}
+.synopsis:hover {
+  text-decoration: none;
+}
+.synopsis:hover .synopsisTitle {
+  text-decoration: underline;
+}
+.synopsis:focus {
+  text-decoration: none;
+}
+.synopsis:focus .synopsisPanel {
+  border: solid 1px #0079a5;
+}
+.synopsis:focus .synopsisBody {
+  text-decoration: none;
+}
+.synopsisTitle {
+  font-size: 16px;
+  font-weight: normal;
+  color: #0079a5;
+}
+.synopsisIcon {
+  padding-top: 8px;
+}
+.addDataCard {
+  width: 250px;
+  min-width: 200px;
+  border: none;
+  box-shadow: none;
+}
+.addDataIcon {
+  width: 64px;
+  height: 64px;
+}
+.addDataButton {
+  line-height: normal;
+}
+.addDataFooterItem_highlight {
+  background-color: #e6f2f6;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+.addDataFooterItem {
+  text-align: center;
+}
+@media only screen and (max-width: 768px) {
+  .recentlyAccessedSeparator {
+    display: none;
+  }
+}
+.recentlyAccessedItem {
+  overflow: hidden;
+  max-width: 300px;
+}
+.recentlyAccessedItem .euiToolTipAnchor {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.recentlyAccessedLongLink {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: normal;
+}
+.recentlyAccessedFlexItem {
+  max-width: 1000px;
+}
+.recentlyAccessedDropwdownLink {
+  white-space: nowrap;
+  height: 18px;
+}
+.recentlyAccessedDropdownLabel {
+  white-space: nowrap;
+}
+.text-center > .kuiButtonGroup {
+  display: inline-block !important;
+}
+.homePanel {
+  background: white;
+  padding: 24px;
+}
+.kuiRadioButton {
+  margin-left: 0px !important;
+}
+.kuiRadioButton.kuiButton--primary {
+  border: solid 1px #0079a5;
+}
+.discoverNoResults {
+  max-width: 1000px;
+}
+.discoverNoResultsShardFailure {
+  display: block;
+}
+.discoverNoResultsShardFailure .euiFlexItem:last-child {
+  display: block;
+  -webkit-flex-grow: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+}
+.collapsible-sidebar {
+  position: relative;
+  z-index: 2;
+}
+.collapsible-sidebar .sidebar-collapser {
+  position: absolute;
+  top: 0;
+  right: -21px;
+  cursor: pointer;
+  z-index: -1;
+}
+.collapsible-sidebar.closed {
+  width: 0 !important;
+  border-right-width: 0;
+  border-left-width: 0;
+}
+.collapsible-sidebar.closed > * {
+  visibility: hidden;
+}
+.collapsible-sidebar.closed .sidebar-collapser {
+  visibility: visible;
+}
+.collapsible-sidebar.closed .sidebar-collapser .chevron-cont:before {
+  content: "\F138";
+}
+@media (max-width: 992px) {
+  .collapsible-sidebar.closed {
+    display: none;
+  }
+  .collapsible-sidebar .sidebar-collapser {
+    display: none;
+  }
+}
+.discoverFetchError {
+  max-width: 1000px;
+}
+/**
+ * 1. em used for right padding so documentation link and query string
+ *    won't overlap if the user increases their default browser font size
+ *    This is sized for the 'Uses lucene query syntax' link
+ */
+.kuiLocalSearchInput {
+  padding-right: 6em;
+  /* 1 */
+}
+.tab-discover {
+  overflow: hidden;
+}
+.discover-sidebar-list-header {
+  margin-top: 5px;
+}
+.discover-popular-fields {
+  padding-top: 10px;
+}
+.discover-wrapper {
+  padding-right: 0px !important;
+  padding-left: 21px;
+  z-index: 1;
+}
+.discover-content {
+  padding-right: 15px;
+  clear: both;
+}
+.discover-timechart {
+  display: block;
+  position: relative;
+  /**
+     * 1. Make sure chart above table is visible.
+     */
+}
+.discover-timechart .series > rect {
+  fill-opacity: 0.5;
+  stroke-width: 1;
+}
+.discover-timechart header {
+  min-height: 40px;
+  padding: 4px 0;
+}
+.discover-timechart visualize {
+  height: 200px;
+  /* 1 */
+}
+.discover-timechart visualize .loading {
+  opacity: 1 !important;
+}
+.discover-timechart visualize.only-spy {
+  height: auto;
+}
+.discover-timechart visualize.only-spy .visualize-table {
+  height: auto;
+}
+.discover-timechart .chartwrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.discover-timechart .vis-overlay {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.discover-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 20;
+  padding-top: 10px;
+  opacity: 0.75;
+  text-align: center;
+  background-color: transparent;
+}
+.discover-overlay > div {
+  text-align: center;
+}
+.discover-info {
+  line-height: 30px;
+  padding: 0px 10px;
+  border-bottom-left-radius: 4px;
+}
+.discover-info-title {
+  font-weight: bold;
+  margin-right: 10px;
+}
+.discover-table {
+  overflow-y: auto;
+  overflow-x: auto;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+.discover-table tbody {
+  font-family: "Lucida Console", Monaco, monospace;
+}
+.discover-table-footer {
+  background-color: #D9D9D9;
+  padding: 5px 10px;
+  text-align: center;
+}
+.discover-table-details-toggle {
+  margin-bottom: 3px;
+}
+.discover-table-timefield {
+  white-space: nowrap;
+}
+/**
+     * 1. When switching between open and closed, the toggle changes size
+     *    slightly which is a problem because it forces the entire table to
+     *    re-render which is SLOW.
+     */
+.discover-table-open-button {
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  background-color: transparent;
+  padding: 0;
+  border: none;
+  width: 14px;
+  /* 1 */
+  height: 14px;
+}
+.discover-field-filter {
+  background-color: #D9D9D9;
+  margin-right: 10px;
+}
+.discover-field-filter .form-group {
+  margin-bottom: 0px;
+}
+/**
+ * 1. Override sidebar-item-title styles.
+ */
+.discover-sidebar-item {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding-top: 0 !important;
+  /* 1 */
+  padding-bottom: 0 !important;
+  /* 1 */
+  height: 32px;
+}
+.discover-sidebar-item:hover .discover-sidebar-item-action,
+.discover-sidebar-item:focus .discover-sidebar-item-action {
+  opacity: 1;
+}
+/**
+   * 1. Truncate long text so it doesn't push the actions outside of the container.
+   */
+.discover-sidebar-item-label {
+  overflow: hidden;
+  /* 1 */
+  text-overflow: ellipsis;
+  /* 1 */
+}
+/**
+   * 1. Only visually hide the action, so that it's still accessible to screen readers.
+   * 2. When tabbed to, this element needs to be visible for keyboard accessibility.
+   */
+.discover-sidebar-item-action {
+  opacity: 0;
+  /* 1 */
+}
+.discover-sidebar-item-action:focus {
+  opacity: 1;
+  /* 2 */
+}
+.discover-field-details {
+  padding: 10px;
+  background-color: #e9e9e9;
+  color: #5A5A5A;
+}
+.discover-field-details-count {
+  white-space: nowrap;
+}
+.discover-field-details-item {
+  margin-top: 5px;
+}
+.discover-field-details-filter {
+  cursor: pointer;
+}
+.discover-field-details-item-title {
+  line-height: 1.5;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+/**
+   * 1. If the field name is very long, don't let it squash the buttons.
+   */
+.discover-field-details-item-buttons {
+  -webkit-flex: 0 0 auto;
+      -ms-flex: 0 0 auto;
+          flex: 0 0 auto;
+  /* 1 */
+}
+.discover-field-details-item-button {
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+}
+/**
+ * TODO: Refactor these selectors to be less specific.
+ */
+.discover-field-details .progress {
+  background-color: #cccccc;
+  margin-bottom: 0px;
+  border-radius: 0px;
+}
+.discover-field-details .progress .progress-bar {
+  padding-left: 10px;
+  text-align: right;
+  line-height: 20px;
+  max-width: 100%;
+}
+.discover-field-details .progress .progress-bar span {
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 3px;
+  border-radius: 4px;
+  margin-left: 3px;
+  margin-right: 3px;
+}
+field-name.no-results,
+[field-name].no-results {
+  color: #666;
+}
+.field-name-icon {
+  margin-right: 5px;
+  text-align: center;
+  display: inline-block;
+  width: 12px;
+  color: #666;
+}
+disc-field-chooser .sidebar-item.active .sidebar-item-title {
+  background: #e9e9e9;
+  color: #000;
+  font-weight: bold;
+}
+disc-field-chooser .sidebar-item-title {
+  position: relative;
+}
+.results h3 {
+  margin: -20px 0 10px 0;
+  text-align: center;
+}
+.results-interval a {
+  text-decoration: underline;
+}
+.results-interval select {
+  display: inline-block;
+  width: auto;
+}
+.discover-skip-button {
+  position: absolute;
+  left: -10000px;
+  top: 4px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+.discover-skip-button:focus {
+  left: initial;
+  right: 15px;
+  width: auto;
+  height: auto;
+}
+@media screen and (max-width: 767px) {
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 768px) {
+}
+@media (max-width: 767px) {
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 768px) {
+}
+@media (max-width: 767px) {
+}
+@media (max-width: 767px) {
+}
+.disabledLabVisualization {
+  width: 100%;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+}
+.disabledLabVisualization__icon {
+  font-size: 2em;
+}
+.visualizeViewContentHeader {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+.visualizeViewContentHeader .kuiTitle {
+  -webkit-flex: 1 1 auto;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+}
+.wizard-sub-title {
+  margin-top: 0px;
+  margin-bottom: 8px;
+  padding: 0px 5px;
+}
+.wizard-type {
+  -webkit-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  position: relative;
+  display: block;
+  padding: 10px 15px;
+  margin-bottom: -1px;
+  background-color: #ffffff;
+  border: 1px solid #dddddd;
+  list-style: none;
+  color: #0079a5;
+  border: none;
+  border-radius: 0;
+  background-color: #F6F6F6;
+}
+.wizard-type:first-child {
+  border-top-right-radius: 4px;
+  border-top-left-radius: 4px;
+}
+.wizard-type:last-child {
+  margin-bottom: 0;
+  border-bottom-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+}
+.wizard-type.disabled,
+.wizard-type.disabled:hover,
+.wizard-type.disabled:focus {
+  background-color: #D9D9D9;
+  color: #b4bcc2;
+  cursor: not-allowed;
+}
+.wizard-type.disabled .list-group-item-heading,
+.wizard-type.disabled:hover .list-group-item-heading,
+.wizard-type.disabled:focus .list-group-item-heading {
+  color: inherit;
+}
+.wizard-type.disabled .list-group-item-text,
+.wizard-type.disabled:hover .list-group-item-text,
+.wizard-type.disabled:focus .list-group-item-text {
+  color: #b4bcc2;
+}
+.wizard-type.active,
+.wizard-type.active:hover,
+.wizard-type.active:focus {
+  z-index: 2;
+  color: #2D2D2D;
+  background-color: #444444;
+  border-color: #444444;
+}
+.wizard-type.active .list-group-item-heading,
+.wizard-type.active:hover .list-group-item-heading,
+.wizard-type.active:focus .list-group-item-heading,
+.wizard-type.active .list-group-item-heading > small,
+.wizard-type.active:hover .list-group-item-heading > small,
+.wizard-type.active:focus .list-group-item-heading > small,
+.wizard-type.active .list-group-item-heading > .small,
+.wizard-type.active:hover .list-group-item-heading > .small,
+.wizard-type.active:focus .list-group-item-heading > .small {
+  color: inherit;
+}
+.wizard-type.active .list-group-item-text,
+.wizard-type.active:hover .list-group-item-text,
+.wizard-type.active:focus .list-group-item-text {
+  color: #aaaaaa;
+}
+.wizard-type.active {
+  font-weight: bold;
+  background-color: #D9D9D9;
+}
+.wizard-type:hover {
+  background-color: #e6f2f6;
+}
+.wizard-type li {
+  list-style: none;
+  color: #0079a5;
+}
+.wizard-type-heading {
+  -webkit-flex: 0 0 200px;
+      -ms-flex: 0 0 200px;
+          flex: 0 0 200px;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-size: 1.2em;
+}
+.wizard-type-heading-icon {
+  -webkit-flex: 0 0 auto;
+      -ms-flex: 0 0 auto;
+          flex: 0 0 auto;
+  margin-right: 15px;
+  font-size: 1.5em;
+  text-align: center;
+  color: #005472;
+}
+.wizard-type-heading-text {
+  -webkit-flex: 1 0 auto;
+      -ms-flex: 1 0 auto;
+          flex: 1 0 auto;
+}
+.wizard-type-description {
+  -webkit-flex: 1 1 auto;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  color: #444444;
+}
+@media (min-width: 1200px) {
+  .wizard {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  .wizard-column {
+    -webkit-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    padding: 0px 2.5px;
+  }
+  .wizard-row {
+    -webkit-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+    background-color: #F5F5F5;
+  }
+  .wizard-column--small {
+    -webkit-flex: 2;
+        -ms-flex: 2;
+            flex: 2;
+  }
+  .wizard-column--large {
+    -webkit-flex: 3;
+        -ms-flex: 3;
+            flex: 3;
+  }
+}
+/**
+ * 1. em used for right padding so documentation link and query string
+ *    won't overlap if the user increases their default browser font size
+ *    This is sized for the 'Uses lucene query syntax' link
+ */
+.kuiLocalSearchInput {
+  padding-right: 6em;
+  /* 1 */
+}
+.vis-editor {
+  -webkit-flex: 1 1 auto;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  /* Without setting this to 0 you will run into a bug where the filter bar modal is hidden under
+a tilemap in an iframe: https://github.com/elastic/kibana/issues/16457 */
+}
+.vis-editor > * {
+  -webkit-flex-shrink: 0;
+      -ms-flex-negative: 0;
+          flex-shrink: 0;
+}
+@media (min-width: 992px) {
+  .vis-editor {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+  }
+}
+@media (max-width: 991px) {
+  .vis-editor visualization {
+    min-height: 400px;
+  }
+}
+.vis-editor .default-vis-editor {
+  overflow-y: hidden;
+  -webkit-flex: 1 1 auto;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+.vis-editor .collapsible-sidebar {
+  -webkit-flex: 0 0 auto;
+      -ms-flex: 0 0 auto;
+          flex: 0 0 auto;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  margin-right: 10px;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  min-width: 350px;
+  max-width: 100%;
+  width: 350px;
+}
+.vis-editor .collapsible-sidebar > * {
+  -webkit-flex-shrink: 0;
+      -ms-flex-negative: 0;
+          flex-shrink: 0;
+}
+@media (max-width: 991px) {
+  .vis-editor .collapsible-sidebar {
+    width: 100% !important;
+  }
+  .vis-editor .collapsible-sidebar vis-editor-resizer {
+    display: none;
+  }
+}
+@media (min-width: 992px) {
+  .vis-editor .collapsible-sidebar {
+    max-width: 75%;
+  }
+}
+.vis-editor .collapsible-sidebar.closed {
+  min-width: 0;
+}
+.vis-editor .collapsible-sidebar--small {
+  width: 15%;
+}
+.vis-editor .collapsible-sidebar--medium {
+  width: 30%;
+}
+.vis-editor .collapsible-sidebar--large {
+  width: 50%;
+}
+.vis-editor .default-editor__resizer {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 0 0 13px;
+      -ms-flex: 0 0 13px;
+          flex: 0 0 13px;
+  width: 13px;
+  cursor: ew-resize;
+  background-color: #F5F5F5;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 0;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+.vis-editor .default-editor__resizer:hover {
+  background-color: #a5e7ff;
+}
+.vis-editor .default-editor__resizer.active {
+  background-color: #0079a5;
+  color: white;
+}
+.vis-editor .visualization-options .form-group {
+  margin-bottom: 10px;
+}
+.vis-editor .visualization-options .form-horizontal .control-label {
+  text-align: left;
+}
+.vis-editor .visualization-options .kuiSideBarSelect {
+  width: 100%;
+}
+.vis-editor nesting-indicator {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 0 0 auto;
+      -ms-flex: 0 0 auto;
+          flex: 0 0 auto;
+}
+.vis-editor nesting-indicator > span {
+  width: 8px;
+  background-color: #31C471;
+}
+.vis-editor vis-editor-agg-group {
+  -webkit-flex: 0 1 auto;
+      -ms-flex: 0 1 auto;
+          flex: 0 1 auto;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+.vis-editor vis-editor-agg-group > * {
+  -webkit-flex-shrink: 0;
+      -ms-flex-negative: 0;
+          flex-shrink: 0;
+}
+.vis-editor > visualize {
+  height: 100%;
+  -webkit-flex: 1 1 auto;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  z-index: 0;
+  /* 1. */
+}
+.indented {
+  margin-left: 2em;
+}
+.vis-editor-content {
+  -webkit-flex: 1 1 auto;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  width: 100%;
+  z-index: 0;
+}
+.vis-editor-content > * {
+  -webkit-flex-shrink: 0;
+      -ms-flex-negative: 0;
+          flex-shrink: 0;
+}
+@media (min-width: 992px) {
+  .vis-editor-content {
+    -webkit-flex-direction: row;
+        -ms-flex-direction: row;
+            flex-direction: row;
+  }
+}
+.vis-editor-content-fullEditor {
+  -webkit-flex: 1 1 auto;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  z-index: 0;
+}
+.vis-editor-content-fullEditor > * {
+  -webkit-flex-shrink: 0;
+      -ms-flex-negative: 0;
+          flex-shrink: 0;
+}
+.vis-editor-sidebar {
+  -webkit-flex: 1 0 auto;
+      -ms-flex: 1 0 auto;
+          flex: 1 0 auto;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  max-width: calc(100% - 13px);
+}
+.vis-editor-sidebar > * {
+  -webkit-flex-shrink: 0;
+      -ms-flex-negative: 0;
+          flex-shrink: 0;
+}
+@media (min-width: 992px) {
+  .vis-editor-sidebar {
+    -webkit-flex-basis: 16.66666667%;
+        -ms-flex-preferred-size: 16.66666667%;
+            flex-basis: 16.66666667%;
+  }
+}
+.vis-editor-sidebar .index-pattern,
+.vis-editor-sidebar nav {
+  min-height: auto;
+  border-radius: 0px;
+}
+.vis-editor-sidebar .sidebar-item {
+  border-top: 0 !important;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  background: #FFF;
+}
+.vis-editor-sidebar .sidebar-container {
+  -webkit-flex: 1 1 auto;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  background-color: #F5F5F5;
+}
+.vis-editor-sidebar .sidebar-container > * {
+  -webkit-flex-shrink: 0;
+      -ms-flex-negative: 0;
+          flex-shrink: 0;
+}
+.vis-editor-sidebar .sidebar-container form {
+  -webkit-flex: 1 1 auto;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+.vis-editor-sidebar .sidebar-container form > * {
+  -webkit-flex-shrink: 0;
+      -ms-flex-negative: 0;
+          flex-shrink: 0;
+}
+.vis-editor-sidebar .sidebar-container form > div.vis-editor-config {
+  padding: 10px;
+}
+@media (min-width: 992px) {
+  .vis-editor-sidebar .sidebar-container form > div.vis-editor-config {
+    -webkit-flex: 1 1 1px;
+        -ms-flex: 1 1 1px;
+            flex: 1 1 1px;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    overflow: auto;
+  }
+  .vis-editor-sidebar .sidebar-container form > div.vis-editor-config > * {
+    -webkit-flex-shrink: 0;
+        -ms-flex-negative: 0;
+            flex-shrink: 0;
+  }
+}
+@media (max-width: 992px) {
+  .vis-editor-sidebar .sidebar-container form > div.vis-editor-config {
+    -webkit-flex: 1 1 auto;
+        -ms-flex: 1 1 auto;
+            flex: 1 1 auto;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .vis-editor-sidebar .sidebar-container form > div.vis-editor-config > * {
+    -webkit-flex-shrink: 0;
+        -ms-flex-negative: 0;
+            flex-shrink: 0;
+  }
+}
+.vis-editor-sidebar .sidebar-container form > .vis-edit-sidebar-buttons {
+  -webkit-flex: 0 0 auto;
+      -ms-flex: 0 0 auto;
+          flex: 0 0 auto;
+}
+.vis-editor-sidebar .sidebar-item-title {
+  font-size: 18px;
+  border: inherit !important;
+  margin-bottom: 10px !important;
+  padding: 0px !important;
+  text-transform: capitalize;
+}
+.vis-editor-sidebar .hintbox {
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.vis-editor-sidebar .kuiSideBarFormRow__label {
+  -webkit-flex: 2 0 0;
+      -ms-flex: 2 0 0px;
+          flex: 2 0 0;
+  margin-bottom: 0;
+  font-size: 12px;
+}
+.vis-editor-full-options .visualization-options {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-flex: 1 0 auto;
+      -ms-flex: 1 0 auto;
+          flex: 1 0 auto;
+  padding: 0px;
+}
+.vis-editor-agg {
+  -webkit-flex: 1 1 auto;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  width: 100%;
+  max-width: 100%;
+  -webkit-flex-basis: 100%;
+      -ms-flex-preferred-size: 100%;
+          flex-basis: 100%;
+}
+.vis-editor-agg > * {
+  -webkit-flex-shrink: 0;
+      -ms-flex-negative: 0;
+          flex-shrink: 0;
+}
+.vis-editor-agg-wrapper {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+.vis-editor-agg-group {
+  -webkit-flex: 0 1 auto;
+      -ms-flex: 0 1 auto;
+          flex: 0 1 auto;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  color: #5A5A5A;
+}
+.vis-editor-agg-group > * {
+  -webkit-flex-shrink: 0;
+      -ms-flex-negative: 0;
+          flex-shrink: 0;
+}
+.vis-editor-agg-header {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-flex: 1 0 auto;
+      -ms-flex: 1 0 auto;
+          flex: 1 0 auto;
+  margin-bottom: 10px;
+}
+.vis-editor-agg-header-toggle {
+  -webkit-flex: 0 0 auto;
+      -ms-flex: 0 0 auto;
+          flex: 0 0 auto;
+  margin-right: 10px;
+  min-width: 22px;
+  min-height: 22px;
+  text-align: center;
+}
+.vis-editor-agg-header-subagg-icon {
+  -webkit-flex: 0 1 auto;
+      -ms-flex: 0 1 auto;
+          flex: 0 1 auto;
+  padding-right: 5px;
+}
+.vis-editor-agg-header-title {
+  -webkit-flex: 0 0 auto;
+      -ms-flex: 0 0 auto;
+          flex: 0 0 auto;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  font-weight: bold;
+}
+.vis-editor-agg-header-title--grow {
+  -webkit-flex-grow: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+}
+.vis-editor-agg-header-description {
+  font-weight: normal;
+  padding-right: 10px;
+  padding-left: 5px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  -webkit-flex: 1 1 0;
+      -ms-flex: 1 1 0px;
+          flex: 1 1 0;
+}
+.vis-editor-agg-header-description.danger {
+  color: #ffffff;
+  color: #A30000;
+  font-weight: bold;
+}
+a.vis-editor-agg-header-description.danger:hover,
+a.vis-editor-agg-header-description.danger:focus {
+  color: #e6e6e6;
+}
+.vis-editor-agg-header-controls {
+  -webkit-flex: 0 0 auto;
+      -ms-flex: 0 0 auto;
+          flex: 0 0 auto;
+}
+.vis-editor-agg-error {
+  margin: 10px 0;
+  padding: 10px;
+  text-align: center;
+  background: #A30000;
+  color: #ffffff;
+  line-height: 1.5;
+}
+.vis-editor-agg-editor-ranges td {
+  padding: 0 10px 10px 0;
+}
+.vis-editor-agg-editor-ranges td:last-child {
+  padding-right: 0;
+}
+.vis-editor-agg-editor-advanced-toggle {
+  text-align: right;
+}
+.vis-editor-agg-form-row {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+.vis-editor-agg-form-row > * {
+  -webkit-flex: 1 1 auto;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  margin-right: 10px;
+}
+.vis-editor-agg-form-row > *:last-child {
+  margin-right: 0px;
+}
+/**
+       * 1. Hack to split child elements evenly.
+       */
+.vis-editor-agg-form-row__even-split {
+  -webkit-flex: 1 1 0 !important;
+      -ms-flex: 1 1 0px !important;
+          flex: 1 1 0 !important;
+  /* 1 */
+}
+.vis-editor-agg-form-value {
+  -webkit-align-self: center;
+      -ms-flex-item-align: center;
+              -ms-grid-row-align: center;
+          align-self: center;
+  margin: 0 0 0 10px;
+  font-size: 1.2em;
+}
+.vis-editor-agg-wide-btn {
+  text-align: center;
+}
+.vis-editor-agg-wide-btn-add {
+  width: 140px;
+  margin: -2px auto 5px auto;
+  text-align: center;
+  border: 2px solid;
+  border-color: #D9D9D9;
+  border-top: 0px;
+  padding: 3px;
+  border-bottom-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  background-color: #ffffff;
+  font-weight: bold;
+}
+.vis-editor-agg-wide-btn-add:hover {
+  color: #333333;
+  background-color: #D9D9D9;
+}
+.vis-editor-agg-add {
+  -webkit-flex: 1 1 auto;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+.vis-editor-agg-add > * {
+  -webkit-flex-shrink: 0;
+      -ms-flex-negative: 0;
+          flex-shrink: 0;
+}
+.vis-editor-agg-add-schemas {
+  margin-bottom: 10px;
+}
+.vis-editor-agg-order-agg {
+  border: 2px solid;
+  border-color: #D9D9D9;
+  border-radius: 4px;
+  background-color: transparent;
+  margin: 10px;
+  padding: 10px;
+}
+/**
+  * 1. Show invalid state if the user has interacted with the input without selecting an option.
+  */
+.vis-editor-field-ui-select .vis-editor-field-ui-select__field-entry {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.vis-editor-field-ui-select .ui-select-match-text {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.vis-editor-field-ui-select.ng-invalid.ng-dirty .ui-select-match .btn,
+.vis-editor-field-ui-select.ng-invalid.ng-touched .ui-select-match .btn {
+  border-color: #A30000;
+  /* 1 */
+}
+.vis-editor-canvas {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  overflow: auto;
+  padding-left: 21px;
+  -webkit-flex-shrink: 1;
+      -ms-flex-negative: 1;
+          flex-shrink: 1;
+  -webkit-flex-basis: 100%;
+      -ms-flex-preferred-size: 100%;
+          flex-basis: 100%;
+}
+.vis-editor-canvas.embedded {
+  -webkit-flex-shrink: 1;
+      -ms-flex-negative: 1;
+          flex-shrink: 1;
+  -webkit-flex-basis: 100%;
+      -ms-flex-preferred-size: 100%;
+          flex-basis: 100%;
+}
+.vis-editor-canvas visualize {
+  -webkit-flex: 1 1 auto;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-flex: 1 1 100%;
+      -ms-flex: 1 1 100%;
+          flex: 1 1 100%;
+}
+.vis-editor-canvas visualize > * {
+  -webkit-flex-shrink: 0;
+      -ms-flex-negative: 0;
+          flex-shrink: 0;
+}
+.vis-editor-canvas .visualize-chart {
+  position: relative;
+}
+.vis-editor-canvas-title {
+  text-align: center;
+  margin: 10px 0 0;
+}
+vis-editor,
+vis-editor-agg-group,
+vis-editor-agg,
+vis-editor-agg-params,
+vis-editor-agg-param,
+vis-editor-vis-options,
+vis-editor-vis-options > * {
+  -webkit-flex: 1 1 auto;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+vis-editor > *,
+vis-editor-agg-group > *,
+vis-editor-agg > *,
+vis-editor-agg-params > *,
+vis-editor-agg-param > *,
+vis-editor-vis-options > *,
+vis-editor-vis-options > * > * {
+  -webkit-flex-shrink: 0;
+      -ms-flex-negative: 0;
+          flex-shrink: 0;
+}
+.vis-editor-config .ems-hotlink {
+  font-size: 12px;
+}
+/**
+   * 1. TODO: Override bootstrap styles. Remove !important once we're rid of bootstrap.
+   */
+.vis-editor-subnav-link {
+  padding: 4px 10px 5px 10px !important;
+  /* 1 */
+  color: #666 !important;
+  /* 1 */
+}
+.vis-editor-subnav-link.is-vis-editor-sub-nav-link-selected {
+  border-bottom: 2px solid #0079a5;
+  border-color: #0079a5 !important;
+  color: #0079a5 !important;
+}
+.vis-editor-subnav-link.is-vis-editor-sub-nav-link-selected:before {
+  display: none;
+}
+.vis-editor-subnav-link.is-vis-editor-sub-nav-link-selected:hover {
+  background-color: transparent;
+}
+/**
+ * 1. TODO: Override bootstrap styles. Remove !important once we're rid of bootstrap.
+ */
+.vis-editor-subnav-link--danger {
+  color: #ffffff !important;
+  /* 1 */
+  background-color: #A30000;
+}
+.vis-editor-subnav-link--danger:hover {
+  background-color: #660000 !important;
+  /* 1 */
+}
+.agg-select-label {
+  display: inline !important;
+}
+.agg-select-help {
+  float: right;
+}
+/**
+ * This preserves backwards-compatibility with any plugins that are still specifying an `icon`
+ * class.
+ *
+ * 1. Size icon correctly.
+ */
+.visualizeWizardVisTypeIcon {
+  color: #000000;
+  font-size: 50px;
+  /* 1 */
+}
+/**
+ * 1. Hack in some padding for these panels.
+ */
+.visualizeWizardPaginatedSelectableList,
+.visualizeWizardSavedObjectFinder {
+  padding: 10px;
+  /* 1 */
+}
+.advancedSettings {
+  padding: 20px;
+  background: #F5F5F5;
+  min-height: calc(100vh - 70px);
+}
+.advancedSettings > div {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.advancedSettings .advancedSettings__field + * {
+  margin-top: 24px;
+}
+.advancedSettings .advancedSettings__field__wrapper {
+  width: 720px;
+}
+.advancedSettings .advancedSettings__field__actions {
+  padding-top: 30px;
+}
+.advancedSettings .advancedSettings__field .euiFormHelpText {
+  padding-bottom: 0;
+}
+/**
+ * 1. Bring the line-height down or else this link expands its container when it becomes visible.
+ */
+ .timeFieldRefreshButton {
+  line-height: 1 !important; /* 1 */
+}
+@media screen and (max-width: 767px) {
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 768px) {
+}
+@media (max-width: 767px) {
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 768px) {
+}
+@media (max-width: 767px) {
+}
+@media (max-width: 767px) {
+}
+kbn-management-app,
+kbn-management-landing,
+kbn-management-indices,
+kbn-management-indices-edit,
+kbn-management-indices-create,
+kbn-management-advanced,
+kbn-management-objects,
+kbn-management-objects-view {
+  display: block;
+}
+.tab-account {
+  background-color: #FFFFFF;
+}
+.tab-management {
+  background-color: #FFFFFF;
+}
+.kbn-management-tab:first-letter {
+  text-transform: capitalize;
+}
+kbn-management-objects {
+  background: #F5F5F5;
+  min-height: 100vh;
+}
+kbn-management-app {
+  min-height: 100vh;
+}
+kbn-management-app li.current-page {
+  font-size: 1.5em;
+  margin: 0 10px;
+}
+kbn-management-landing {
+  /**
+   * 1. Set icon size.
+   * 2. Hack the panel title to move to the left a bit.
+   */
+}
+kbn-management-landing .management-panel {
+  margin-bottom: 10px;
+}
+kbn-management-landing .management-panel__link {
+  font-size: 17px;
+  line-height: 32px;
+}
+kbn-management-landing .management-panel__link.management-panel__link--disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+kbn-management-landing .management-panel__link.management-panel__link--disabled:hover,
+kbn-management-landing .management-panel__link.management-panel__link--disabled:visited {
+  color: #0079a5;
+}
+kbn-management-landing .management-panel__heading-icon {
+  width: 20px;
+  /* 1 */
+  height: 20px;
+  /* 1 */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  /* 1 */
+  margin-right: -3px;
+  /* 2 */
+}
+kbn-management-landing .management-panel__heading-icon--security {
+  background-image: url(__REPLACE_WITH_PUBLIC_PATH__1f5de7e3ff25f0b0acccfa328794c7ea.svg);
+}
+kbn-management-landing .management-panel__heading-icon--elasticsearch {
+  background-image: url(__REPLACE_WITH_PUBLIC_PATH__4eae70b44c4e3b69f2357bff8f1e67f1.svg);
+}
+kbn-management-landing .management-panel__heading-icon--kibana {
+  background-image: url(__REPLACE_WITH_PUBLIC_PATH__6199ab7146b1eb859db9ffd2b9b786d3.svg);
+}
+kbn-management-landing .management-panel__heading-icon--beats {
+  background-image: url(__REPLACE_WITH_PUBLIC_PATH__9ad9ca7ab44828ee57b75fdd76a84567.svg);
+}
+kbn-management-landing .management-panel__heading-icon--logstash {
+  background-image: url(__REPLACE_WITH_PUBLIC_PATH__a04c09b6eda01f84b583ed59e958afdc.svg);
+}
+kbn-management-objects form {
+  margin-bottom: 20px;
+}
+kbn-management-objects .list-unstyled li {
+  border-bottom: 1px solid;
+  border-bottom-color: #D9D9D9;
+  padding: 8px;
+}
+kbn-management-objects .empty {
+  color: #b4bcc2;
+}
+kbn-management-objects .item {
+  padding: 12px;
+}
+kbn-management-objects .item .item-title {
+  margin-left: 30px;
+}
+kbn-management-objects .item .actions {
+  margin-top: -6px;
+}
+kbn-management-objects .header .title,
+kbn-management-objects .header .controls {
+  padding-right: 1em;
+  display: inline-block;
+}
+.managementChangeIndexModal {
+  width: 800px;
+  overflow: auto;
+  max-height: 89vh;
+}
+kbn-management-advanced .table {
+  table-layout: fixed;
+}
+kbn-management-advanced .table tbody > tr > td {
+  vertical-align: middle;
+}
+kbn-management-advanced .advancedSettingsTableRowImage {
+  height: 3em;
+  width: auto;
+}
+kbn-management-advanced .advancedSettingsTableRowActionsCell {
+  max-width: 300px;
+}
+kbn-management-objects-view .ace_editor {
+  height: 300px;
+}
+.advanced-settings {
+  overflow-x: scroll;
+}
+.advanced-settings table {
+  width: 100%;
+}
+.advanced-settings table tr.default td.value {
+  color: #acb6c0;
+}
+.advanced-settings table td {
+  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+.advanced-settings table td.actions {
+  width: 150px;
+}
+.indices-settings i.active {
+  color: #0079a5;
+}
+.indices-settings tr.field-settings .field-popularize {
+  margin-left: 5px;
+  display: none;
+}
+.indices-settings tr.field-settings:hover .field-popularize {
+  display: inline;
+}
+kbn-management-indices .fields {
+  display: block;
+}
+kbn-management-indices .fields table > tbody > tr:nth-of-type(odd) {
+  background-color: #f9f9f9;
+}
+kbn-management-indices .fields th:last-child,
+kbn-management-indices .fields td:last-child {
+  text-align: right;
+}
+kbn-management-indices .indexed-fields th:first-child,
+kbn-management-indices .indexed-fields td:first-child {
+  width: 35%;
+}
+kbn-management-indices .scripted-fields header {
+  margin: 5px 0;
+  text-align: right;
+}
+kbn-management-indices p.text-center {
+  padding-top: 1em;
+}
+.gu-handle {
+  cursor: move;
+  cursor: grab;
+  cursor: -webkit-grab;
+}
+.gu-mirror,
+.gu-mirror .gu-handle {
+  cursor: grabbing;
+  cursor: -webkit-grabbing;
+}
+.dev-tools__container {
+  -webkit-flex: 1 1 auto;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+.dev-tools__container > * {
+  -webkit-flex-shrink: 0;
+      -ms-flex-negative: 0;
+          flex-shrink: 0;
+}
+.dev-tools__app-container {
+  -webkit-flex: 1 1 auto;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+.dev-tools__app-container > * {
+  -webkit-flex-shrink: 0;
+      -ms-flex-negative: 0;
+          flex-shrink: 0;
+}
+/**
+ * 1. Hide increment and decrement buttons for type="number" input.
+ */
+.contextSizePicker {
+  -webkit-appearance: textfield;
+     -moz-appearance: textfield;
+          appearance: textfield;
+  text-align: center;
+  width: 5em;
+}
+.contextSizePicker::-webkit-outer-spin-button,
+.contextSizePicker::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+          appearance: none;
+  /* 1 */
+  margin: 0;
+  /* 1 */
+}
